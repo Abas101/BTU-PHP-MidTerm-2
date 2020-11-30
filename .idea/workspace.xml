@@ -134,6 +134,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -150,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606748069250</updated>
-      <workItem from="1606748070370" duration="4664000" />
+      <workItem from="1606748070370" duration="6518000" />
     </task>
     <servers />
   </component>
@@ -162,6 +163,14 @@
       <screen x="1920" y="7" width="1920" height="1050" />
     </state>
     <state x="2472" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.7.1920.1050@1920.7.1920.1050" timestamp="1606749174359" />
+    <state x="2610" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606752939959">
+      <screen x="1920" y="7" width="1920" height="1050" />
+    </state>
+    <state x="2610" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1050/1920.7.1920.1050@1920.7.1920.1050" timestamp="1606752939959" />
+    <state x="2381" y="177" key="SettingsEditor" timestamp="1606752977185">
+      <screen x="1920" y="7" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="177" key="SettingsEditor/0.0.1920.1050/1920.7.1920.1050@1920.7.1920.1050" timestamp="1606752977185" />
     <state x="2779" y="409" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606749253339">
       <screen x="1920" y="7" width="1920" height="1050" />
     </state>

@@ -18,8 +18,7 @@ class LoginController extends Controller
 
 
         if(Auth::attempt($creds)){
-//            dd(Auth::user());
-            return redirect() ->route("quizz");
+            return redirect() ->route("quizes");
 
         }
         else{
